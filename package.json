@@ -1,0 +1,13 @@
+{
+  "name": "Amp-page-app-by-rohit-kumar",
+  "description": "Amp page test app by rohit kumar(romykundal@gmail.com)",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ampify": "^0.4.2",
+    "express": "3.x"
+  }
+}
